@@ -1,0 +1,15 @@
+.settings, .registerCompany, #shares_control_win{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	z-index: 100;
+	background-color: lightgray;
+	padding: 20px;
+	display: none;
+}
+.settings textarea{
+	width: 90%;
+	display: block;
+	margin: auto;
+}
